@@ -1,4 +1,6 @@
 {
+  "name":"ajaxman",
+  "version":"1.0.0",
   "devDependencies": {
     "webpack-cli": "^4.9.2"
   }
