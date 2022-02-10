@@ -1,6 +1,6 @@
 {
   "name": "ajaxman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use Ajax with no tears",
   "main": "./dist/bundle.js",
   "scripts": {
