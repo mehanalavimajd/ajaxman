@@ -1,7 +1,24 @@
 {
-  "name":"ajaxman",
-  "version":"1.0.0",
+  "name": "ajaxman",
+  "version": "1.0.0",
+  "description": "Use Ajax with no tears",
+  "main": "./dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehanalavimajd/ajaxman.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehanalavimajd/ajaxman/issues"
+  },
+  "homepage": "https://github.com/mehanalavimajd/ajaxman#readme",
   "devDependencies": {
+    "webpack": "^5.68.0",
     "webpack-cli": "^4.9.2"
   }
 }
