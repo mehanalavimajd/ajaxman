@@ -56,10 +56,15 @@ npm install ajaxman
 
 ## Usage
 ```js
-import {get} for "ajaxman"
-get("google.com",()=>{
-  console.log("Request made")
-}
+import ajaxman from "ajaxman"
+ajaxman(
+  {
+    url:"https://www.github.com",
+    type:"GET"
+  },(req)=>{
+    console.log(req.status)
+  }
+)
 ```
 **NOTE: Ajaxman is just made for front-end usage not Node.js**
 
