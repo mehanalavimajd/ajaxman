@@ -16,11 +16,11 @@
   "bugs": {
     "url": "https://github.com/mehanalavimajd/ajaxman/issues"
   },
-  "tags":{
+  "tags":[
 	  "ajax",
 	  "request",
 	  "frontend"
-},
+  ],
   "homepage": "https://github.com/mehanalavimajd/ajaxman#readme",
   "devDependencies": {
     "webpack": "^5.68.0",
