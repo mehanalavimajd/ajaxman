@@ -1,6 +1,6 @@
 {
   "name": "ajaxman",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use Ajax with no tears",
   "main": "./dist/bundle.js",
   "scripts": {
@@ -16,6 +16,11 @@
   "bugs": {
     "url": "https://github.com/mehanalavimajd/ajaxman/issues"
   },
+  "tags":{
+	  "ajax",
+	  "request",
+	  "frontend"
+},
   "homepage": "https://github.com/mehanalavimajd/ajaxman#readme",
   "devDependencies": {
     "webpack": "^5.68.0",
