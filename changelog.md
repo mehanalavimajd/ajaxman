@@ -1,3 +1,9 @@
+## [1.0.3] - 2022-2-15
+### Fixed
+### Added 
+### Changed
+- method instead of type (issue #5 and PR #6)
+
 ## [1.0.2] - 2022-2-11
 ### Fixed
 ### Added
