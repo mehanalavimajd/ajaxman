@@ -1,3 +1,9 @@
+## [1.0.4] - 2022-2-19
+### Fixed
+### Added
+- now users can send async/sync requests with `options.async` (true is default if not used)
+### Changed
+
 ## [1.0.3] - 2022-2-15
 ### Fixed
 ### Added 
